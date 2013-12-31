@@ -1,7 +1,9 @@
 // -*- c -*-
-// SoftServo library
-// copyright Dave Sieh, 2013
-// This code is public domain, enjoy!
+// SoftServo Arduino library
+//
+// Copyright (c) 2013 Dave Sieh
+// See LICENSE.txt for details.
+
 #include <SoftServo.h>
 
 SoftServo servo(9);
